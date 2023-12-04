@@ -1,3 +1,15 @@
+# MISC
+.DS_Store
+*.ipynb
+*.pdf
+*.pkl
+*.png
+*.csv
+*.txt
+*.xml
+*.xlsx
+*.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
